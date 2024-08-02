@@ -1,4 +1,4 @@
-# pybind11-cuda
+# pybind11-cuda implementation of the 'assign_cost_cuda' module for CDPS
 
 Compiles out of the box with cmake 
 
@@ -18,8 +18,8 @@ Cmake 3.6 or greater
 
 # To build 
 
-```source install.bash``` 
+```bash install.bash``` 
 
 Test it with 
-```python3 test_mul.py``` 
+```python test.py``` 
  
